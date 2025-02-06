@@ -1,51 +1,54 @@
 [
     {
-        "company": "Microsoft",
-        "role": "Data Science Fellow",
-        "icon": "./assets/microsoft_logo.png",
-        "startTime": "June 2023",
-        "endTime": "June 2023",
+        "company": "BrowserStack",
+        "role": "Senior Software Engineer",
+        "icon": "./assets/browserstack.svg",
+        "startTime": "May 2023",
+        "endTime": "July 2024",
         "description": [
-            "Selected as one of 12 students to participate in a paid Microsoft Research Data Science program from a pool of over 300 applicants",
-            "Used R and Bash to acquire, clean, and analyze datasets, as well as to develop and train machine learning models",
-            "Applied statistical techniques, data visualization, and evaluation metrics to evaluate the performance of predictive models",
-            "Collaborated with researchers from Microsoft Research to replicate and authenticate published research, identifying misleading findings and discovering source code flaws"
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore ",
+            "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo ",
+            "consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+            "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         ]
     },
     {
-        "company": "Meta",
+        "company": "BrowserStack",
+        "role": "Software Engineer",
+        "icon": "./assets/browserstack.svg",
+        "startTime": "July 2021",
+        "endTime": "May 2023",
+        "description": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore ",
+            "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo ",
+            "consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+            "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        ]
+    },
+    {
+        "company": "FinsoftAI Solutions",
         "role": "Software Engineering Intern",
-        "icon": "./assets/meta-logo.svg",
-        "startTime": "May 2022",
-        "endTime": "August 2022",
+        "icon": "./assets/finsoftai.png",
+        "startTime": "June 2020",
+        "endTime": "June 2021",
         "description": [
-            "Reduced negative messaging interactions on the Instagram iOS app by 14% by collaborating with design and server teams to implement a feature using Objective-C",
-            "Improved user experience in iOS and Android by scoping implementation plans for future projects and partnering with cross-functional teams, including creating Objective-C prototypes in close collaboration with the designer",
-            "Enhanced test coverage of iOS Instagram App modules by 89% and supported the QA team by developing Objective-C unit tests and implementing end-to-end testing using Jest"
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore ",
+            "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo ",
+            "consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+            "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         ]
     },
     {
-        "company": "Codepath",
-        "role": "Teaching Assistant",
-        "icon": "./assets/codepath.png",
-        "startTime": "Jan 2021",
-        "endTime": "Nov 2022",
+        "company": "Omdena",
+        "role": "Junior ML Engineer (Internship)",
+        "icon": "./assets/omdena.png",
+        "startTime": "Feb 2020",
+        "endTime": "April 2020",
         "description": [
-            "Taught an introduction of programming full stack iOS Applications to a class of 20+ students resulting in a 96% completion rate",
-            "Lead breakout room sessions with students to assist with 8 student group projects",
-            "Provided Q&A sessions to help students with general questions on programming and iOS Development"
-        ]
-    },
-    {
-        "company": "Meta",
-        "role": "Facebook University Intern",
-        "icon": "./assets/meta-logo.svg",
-        "startTime": "Jun 2021",
-        "endTime": "Aug 2021",
-        "description": [
-            "Worked as a full stack iOS application developer, utilizing the MVC design pattern for interface creation and implementation",
-            "Developed user path visualization using Objective-C and iOS Google Maps SDK, with Parse as the backend, enabling users to track and analyze their routes for improved navigation and planning",
-            "Streamlined data storage and accelerated load times for users by implementing a custom algorithm that optimized user path storage and performance, eliminating up to 60% of redundant points for each user path"
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore ",
+            "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo ",
+            "consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+            "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         ]
     }
 ]

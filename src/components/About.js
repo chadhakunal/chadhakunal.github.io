@@ -36,7 +36,7 @@ export default function About({ color }) {
               fontSize={{ base: "2xl", sm: "4xl", md: "6xl" }}
               lineHeight={"110%"}
             >
-              John Jakobsen <br />
+              Kunal Chadha <br />
               <Text as={"span"} color={`${color}.400`}>
                 Software Engineer
               </Text>

@@ -19,7 +19,7 @@ export default function Footer() {
         py={4}
         align="center"
       >
-        <Text>© 2023 John Jakobsen. All rights reserved</Text>
+        <Text>© 2023 Kunal Chadha. All rights reserved</Text>
       </Container>
     </Box>
   );

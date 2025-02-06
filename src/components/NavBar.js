@@ -50,7 +50,7 @@ export default function Nav({ color }) {
       w="100%"
     >
       <a href={"/"}>
-        <Image src="./assets/logo.png" style={{width: "40px", height: "40px"}} />
+        KC
       </a>
       <Flex alignItems={"center"}>
         <Stack direction={"row"} spacing={7}>
